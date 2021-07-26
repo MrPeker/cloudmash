@@ -1,0 +1,192 @@
+[
+  {
+    "key": "service:1",
+    "value": {
+      "iconPath": "images/icons/aws/svg/Arch_Amazon-Athena_64.svg",
+      "score": 100,
+      "id": 1,
+      "serviceName": "64/Arch",
+      "losses": 0,
+      "iconBasename": "Arch_Amazon-Athena_64.svg",
+      "vendor": "AWS",
+      "wins": 0
+    },
+    "created": "2021-07-26T15:52:42.000Z",
+    "modified": "2021-07-26T15:52:42.000Z",
+    "label1": "AWS",
+    "label2": "100",
+    "label3": "0",
+    "label4": "0"
+  },
+  {
+    "key": "service:10",
+    "value": {
+      "iconPath": "images/icons/aws/svg/Arch_Amazon-Managed-Streaming-for-Apache-Kafka_64.svg",
+      "score": 100,
+      "id": 10,
+      "serviceName": "64/Arch",
+      "losses": 0,
+      "iconBasename": "Arch_Amazon-Managed-Streaming-for-Apache-Kafka_64.svg",
+      "vendor": "AWS",
+      "wins": 0
+    },
+    "created": "2021-07-26T15:52:42.000Z",
+    "modified": "2021-07-26T15:52:42.000Z",
+    "label1": "AWS",
+    "label2": "100",
+    "label3": "0",
+    "label4": "0"
+  },
+  {
+    "key": "service:2",
+    "value": {
+      "iconPath": "images/icons/aws/svg/Arch_Amazon-CloudSearch_64.svg",
+      "score": 100,
+      "id": 2,
+      "serviceName": "64/Arch",
+      "losses": 0,
+      "iconBasename": "Arch_Amazon-CloudSearch_64.svg",
+      "vendor": "AWS",
+      "wins": 0
+    },
+    "created": "2021-07-26T15:52:42.000Z",
+    "modified": "2021-07-26T15:52:42.000Z",
+    "label1": "AWS",
+    "label2": "100",
+    "label3": "0",
+    "label4": "0"
+  },
+  {
+    "key": "service:3",
+    "value": {
+      "iconPath": "images/icons/aws/svg/Arch_Amazon-Elasticsearch-Service_64.svg",
+      "score": 100,
+      "id": 3,
+      "serviceName": "64/Arch",
+      "losses": 0,
+      "iconBasename": "Arch_Amazon-Elasticsearch-Service_64.svg",
+      "vendor": "AWS",
+      "wins": 0
+    },
+    "created": "2021-07-26T15:52:42.000Z",
+    "modified": "2021-07-26T15:52:42.000Z",
+    "label1": "AWS",
+    "label2": "100",
+    "label3": "0",
+    "label4": "0"
+  },
+  {
+    "key": "service:4",
+    "value": {
+      "iconPath": "images/icons/aws/svg/Arch_Amazon-EMR_64.svg",
+      "score": 100,
+      "id": 4,
+      "serviceName": "64/Arch",
+      "losses": 0,
+      "iconBasename": "Arch_Amazon-EMR_64.svg",
+      "vendor": "AWS",
+      "wins": 0
+    },
+    "created": "2021-07-26T15:52:42.000Z",
+    "modified": "2021-07-26T15:52:42.000Z",
+    "label1": "AWS",
+    "label2": "100",
+    "label3": "0",
+    "label4": "0"
+  },
+  {
+    "key": "service:5",
+    "value": {
+      "iconPath": "images/icons/aws/svg/Arch_Amazon-Kinesis_64.svg",
+      "score": 100,
+      "id": 5,
+      "serviceName": "64/Arch",
+      "losses": 0,
+      "iconBasename": "Arch_Amazon-Kinesis_64.svg",
+      "vendor": "AWS",
+      "wins": 0
+    },
+    "created": "2021-07-26T15:52:42.000Z",
+    "modified": "2021-07-26T15:52:42.000Z",
+    "label1": "AWS",
+    "label2": "100",
+    "label3": "0",
+    "label4": "0"
+  },
+  {
+    "key": "service:6",
+    "value": {
+      "iconPath": "images/icons/aws/svg/Arch_Amazon-Kinesis-Data-Analytics_64.svg",
+      "score": 100,
+      "id": 6,
+      "serviceName": "64/Arch",
+      "losses": 0,
+      "iconBasename": "Arch_Amazon-Kinesis-Data-Analytics_64.svg",
+      "vendor": "AWS",
+      "wins": 0
+    },
+    "created": "2021-07-26T15:52:42.000Z",
+    "modified": "2021-07-26T15:52:42.000Z",
+    "label1": "AWS",
+    "label2": "100",
+    "label3": "0",
+    "label4": "0"
+  },
+  {
+    "key": "service:7",
+    "value": {
+      "iconPath": "images/icons/aws/svg/Arch_Amazon-Kinesis-Data-Streams_64.svg",
+      "score": 100,
+      "id": 7,
+      "serviceName": "64/Arch",
+      "losses": 0,
+      "iconBasename": "Arch_Amazon-Kinesis-Data-Streams_64.svg",
+      "vendor": "AWS",
+      "wins": 0
+    },
+    "created": "2021-07-26T15:52:42.000Z",
+    "modified": "2021-07-26T15:52:42.000Z",
+    "label1": "AWS",
+    "label2": "100",
+    "label3": "0",
+    "label4": "0"
+  },
+  {
+    "key": "service:8",
+    "value": {
+      "iconPath": "images/icons/aws/svg/Arch_Amazon-Kinesis-Firehose_64.svg",
+      "score": 100,
+      "id": 8,
+      "serviceName": "64/Arch",
+      "losses": 0,
+      "iconBasename": "Arch_Amazon-Kinesis-Firehose_64.svg",
+      "vendor": "AWS",
+      "wins": 0
+    },
+    "created": "2021-07-26T15:52:42.000Z",
+    "modified": "2021-07-26T15:52:42.000Z",
+    "label1": "AWS",
+    "label2": "100",
+    "label3": "0",
+    "label4": "0"
+  },
+  {
+    "key": "service:9",
+    "value": {
+      "iconPath": "images/icons/aws/svg/Arch_Amazon-Kinesis-Video-Streams_64.svg",
+      "score": 100,
+      "id": 9,
+      "serviceName": "64/Arch",
+      "losses": 0,
+      "iconBasename": "Arch_Amazon-Kinesis-Video-Streams_64.svg",
+      "vendor": "AWS",
+      "wins": 0
+    },
+    "created": "2021-07-26T15:52:42.000Z",
+    "modified": "2021-07-26T15:52:42.000Z",
+    "label1": "AWS",
+    "label2": "100",
+    "label3": "0",
+    "label4": "0"
+  }
+]

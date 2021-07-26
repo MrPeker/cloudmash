@@ -1,0 +1,590 @@
+[
+  {
+    "serviceName": "API Analytics",
+    "iconBasename": "APIAnalytics-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/APIAnalytics-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Apigee API Platform",
+    "iconBasename": "ApigeeAPIPlatform-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/ApigeeAPIPlatform-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Apigee Sense",
+    "iconBasename": "ApigeeSense-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/ApigeeSense-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "API Monetization",
+    "iconBasename": "APIMonetization-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/APIMonetization-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Endpoints",
+    "iconBasename": "cloud-endpoints-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-endpoints-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Developer Portal",
+    "iconBasename": "developer-portal-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/developer-portal-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Bigquery",
+    "iconBasename": "bigquery-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/bigquery-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Composer",
+    "iconBasename": "cloud-composer-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-composer-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Data Lab",
+    "iconBasename": "data-lab-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/data-lab-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Data Studio",
+    "iconBasename": "data-studio-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/data-studio-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Dataflow",
+    "iconBasename": "dataflow-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/dataflow-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Dataprep",
+    "iconBasename": "dataprep-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/dataprep-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Dataproc",
+    "iconBasename": "dataproc-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/dataproc-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Genomics",
+    "iconBasename": "genomics-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/genomics-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Pub Sub",
+    "iconBasename": "pub_sub-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/pub_sub-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Advanced Solutions Lab 512 Color 1",
+    "iconBasename": "AdvancedSolutionsLab-512-color (1).svg",
+    "iconPath": "images/icons/gcloud/svg/AdvancedSolutionsLab-512-color (1).svg",
+    "score": 100
+  },
+  {
+    "serviceName": "AI Platform",
+    "iconBasename": "AIPlatform-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/AIPlatform-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Auto ML",
+    "iconBasename": "AutoML-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/AutoML-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Jobs Api",
+    "iconBasename": "cloud-jobs-api-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-jobs-api-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Natural Language Api",
+    "iconBasename": "cloud-natural-language-api-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-natural-language-api-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Translation Api",
+    "iconBasename": "cloud-translation-api-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-translation-api-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Vision Api",
+    "iconBasename": "cloud-vision-api-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-vision-api-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloude Tpu",
+    "iconBasename": "cloude-tpu-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloude-tpu-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Dialogflow",
+    "iconBasename": "dialogflow-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/dialogflow-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Speech To Text",
+    "iconBasename": "speech-to-text-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/speech-to-text-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Text To Speech",
+    "iconBasename": "text-to-speech-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/text-to-speech-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Video Intelligence Api",
+    "iconBasename": "video-intelligence-api-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/video-intelligence-api-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "App Engine",
+    "iconBasename": "AppEngine-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/AppEngine-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Functions",
+    "iconBasename": "cloud-functions-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-functions-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Gpu",
+    "iconBasename": "cloud-gpu-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-gpu-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Compute Engine",
+    "iconBasename": "compute-engine-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/compute-engine-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Container Optimized Os",
+    "iconBasename": "container-optimized-os-32-flat.svg",
+    "iconPath": "images/icons/gcloud/svg/container-optimized-os-32-flat.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Container Optimized Os",
+    "iconBasename": "container-optimized-os-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/container-optimized-os-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "GKE On Prem",
+    "iconBasename": "GKEOn-Prem-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/GKEOn-Prem-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Transfer Appliance",
+    "iconBasename": "transfer-appliance-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/transfer-appliance-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Artifact Registry Color",
+    "iconBasename": "artifact-registry-color.svg",
+    "iconPath": "images/icons/gcloud/svg/artifact-registry-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Build",
+    "iconBasename": "cloud-build-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-build-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Deployment Manager",
+    "iconBasename": "cloud-deployment-manager-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-deployment-manager-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Tools For Powershell",
+    "iconBasename": "tools-for-powershell-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/tools-for-powershell-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "App Engine",
+    "iconBasename": "App-Engine.svg",
+    "iconPath": "images/icons/gcloud/svg/App-Engine.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Dataflow",
+    "iconBasename": "Cloud-Dataflow.svg",
+    "iconPath": "images/icons/gcloud/svg/Cloud-Dataflow.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Dataproc",
+    "iconBasename": "Cloud-Dataproc.svg",
+    "iconPath": "images/icons/gcloud/svg/Cloud-Dataproc.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Compute Engine",
+    "iconBasename": "Compute-Engine.svg",
+    "iconPath": "images/icons/gcloud/svg/Compute-Engine.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Container Engine",
+    "iconBasename": "Container-Engine.svg",
+    "iconPath": "images/icons/gcloud/svg/Container-Engine.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Modifiers Autoscaling",
+    "iconBasename": "modifiers_autoscaling.svg",
+    "iconPath": "images/icons/gcloud/svg/modifiers_autoscaling.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Modifiers Custom Virtual Machine",
+    "iconBasename": "modifiers_custom-virtual-machine.svg",
+    "iconPath": "images/icons/gcloud/svg/modifiers_custom-virtual-machine.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Modifiers High CPU Machine",
+    "iconBasename": "modifiers_high-CPU-machine.svg",
+    "iconPath": "images/icons/gcloud/svg/modifiers_high-CPU-machine.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Modifiers High Memory Machine",
+    "iconBasename": "modifiers_high-memory-machine.svg",
+    "iconPath": "images/icons/gcloud/svg/modifiers_high-memory-machine.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Modifiers Preemptable Vm",
+    "iconBasename": "modifiers_preemptable-vm.svg",
+    "iconPath": "images/icons/gcloud/svg/modifiers_preemptable-vm.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Modifiers Shared Core Machine F 1",
+    "iconBasename": "modifiers_shared-core-machine-F1.svg",
+    "iconPath": "images/icons/gcloud/svg/modifiers_shared-core-machine-F1.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Modifiers Shared Core Machine G 1",
+    "iconBasename": "modifiers_shared-core-machine-G1.svg",
+    "iconPath": "images/icons/gcloud/svg/modifiers_shared-core-machine-G1.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Modifiers Standard Machine",
+    "iconBasename": "modifiers_standard-machine.svg",
+    "iconPath": "images/icons/gcloud/svg/modifiers_standard-machine.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Modifiers Storage",
+    "iconBasename": "modifiers_storage.svg",
+    "iconPath": "images/icons/gcloud/svg/modifiers_storage.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Generic",
+    "iconBasename": "generic-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/generic-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Beyondcorp",
+    "iconBasename": "beyondcorp-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/beyondcorp-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Data Loss Prevention Api",
+    "iconBasename": "data-loss-prevention-api-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/data-loss-prevention-api-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Iam",
+    "iconBasename": "iam-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/iam-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Key Access Justifications",
+    "iconBasename": "Key-Access-Justifications-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/Key-Access-Justifications-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Security Command Center",
+    "iconBasename": "security-command-center-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/security-command-center-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Web Security Scanner",
+    "iconBasename": "web-security-scanner-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/web-security-scanner-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Iot Core",
+    "iconBasename": "iot-core-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/iot-core-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Deployment Manager",
+    "iconBasename": "cloud-deployment-manager-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-deployment-manager-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Logging",
+    "iconBasename": "cloud-logging-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-logging-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Monitoring",
+    "iconBasename": "cloud-monitoring-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-monitoring-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloudapis",
+    "iconBasename": "cloudapis-521-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloudapis-521-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Debugger",
+    "iconBasename": "debugger-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/debugger-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Error Reporting",
+    "iconBasename": "error-reporting-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/error-reporting-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Stackdriver",
+    "iconBasename": "Stackdriver-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/Stackdriver-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Trace",
+    "iconBasename": "trace-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/trace-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Cdn",
+    "iconBasename": "cloud-cdn-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-cdn-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Dns",
+    "iconBasename": "cloud-dns-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-dns-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud External Ip Addresses",
+    "iconBasename": "cloud-external-ip-addresses-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-external-ip-addresses-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Firewall Rules",
+    "iconBasename": "cloud-firewall-rules-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-firewall-rules-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Interconnect",
+    "iconBasename": "cloud-interconnect-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-interconnect-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Load Balancing",
+    "iconBasename": "cloud-load-balancing-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-load-balancing-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Network",
+    "iconBasename": "cloud-network-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-network-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Router",
+    "iconBasename": "cloud-router-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-router-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Routes",
+    "iconBasename": "cloud-routes-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-routes-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Vpn",
+    "iconBasename": "cloud-vpn-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-vpn-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloudarmor",
+    "iconBasename": "cloudarmor-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloudarmor-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Partner Interconnect",
+    "iconBasename": "partner-interconnect-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/partner-interconnect-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Premium Network Tier",
+    "iconBasename": "premium-network-tier-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/premium-network-tier-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Standard Network Tier",
+    "iconBasename": "standard-network-tier-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/standard-network-tier-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Virtual Private Cloud",
+    "iconBasename": "virtual-private-cloud-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/virtual-private-cloud-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Forseti Lockup",
+    "iconBasename": "Forseti_lockup.svg",
+    "iconPath": "images/icons/gcloud/svg/Forseti_lockup.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Forseti Logo",
+    "iconBasename": "Forseti_logo.svg",
+    "iconPath": "images/icons/gcloud/svg/Forseti_logo.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Istio Logo",
+    "iconBasename": "Istio_logo.svg",
+    "iconPath": "images/icons/gcloud/svg/Istio_logo.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Kubernetes Logo",
+    "iconBasename": "Kubernetes_logo.svg",
+    "iconPath": "images/icons/gcloud/svg/Kubernetes_logo.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Kubernetes Name",
+    "iconBasename": "Kubernetes_name.svg",
+    "iconPath": "images/icons/gcloud/svg/Kubernetes_name.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Tensor Flow Logo",
+    "iconBasename": "TensorFlow_logo.svg",
+    "iconPath": "images/icons/gcloud/svg/TensorFlow_logo.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Bigtable",
+    "iconBasename": "cloud-bigtable-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-bigtable-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Spanner",
+    "iconBasename": "cloud-spanner-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-spanner-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Sql",
+    "iconBasename": "cloud-sql-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-sql-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Cloud Storage",
+    "iconBasename": "cloud-storage-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/cloud-storage-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Datastore Color",
+    "iconBasename": "datastore-color.svg",
+    "iconPath": "images/icons/gcloud/svg/datastore-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Filestore",
+    "iconBasename": "filestore-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/filestore-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Memorystore",
+    "iconBasename": "memorystore-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/memorystore-512-color.svg",
+    "score": 100
+  },
+  {
+    "serviceName": "Persistent Disk",
+    "iconBasename": "persistent-disk-512-color.svg",
+    "iconPath": "images/icons/gcloud/svg/persistent-disk-512-color.svg",
+    "score": 100
+  }
+]
