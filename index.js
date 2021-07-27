@@ -12,6 +12,7 @@
 const { api, data, schedule } = require('@serverless/cloud') // eslint-disable-line
 const services = require('./services.json')
 const dayjs = require('dayjs')
+const fs = require('fs')
 
 // Get service by ID
 api.get('/services/:id', async (req, res) => {
@@ -21,6 +22,7 @@ api.get('/services/:id', async (req, res) => {
 
 // Create a battle between two services
 api.get('/battle', async (req, res) => {
+  console.log('new battle')
   let max = services.length - 1
 
   let firstServiceId = Math.floor(Math.random() * max) + 1
@@ -81,6 +83,35 @@ api.post('/battle', async (req, res) => {
     })
   } catch (e) {
     console.error(e)
+  }
+})
+
+api.get('/leaderboard', async (req, res) => {
+  const cacheKey = 'leaderboard-cache'
+
+  const leaderboardCache = await data.get(cacheKey)
+
+  if (leaderboardCache) {
+    console.log('cache hit')
+    res.json({
+      data: leaderboardCache
+    })
+  } else {
+    console.log('cache miss')
+    let awsServices = await data.getByLabel('label1', 'AWS', { limit: 1000 })
+    let azureServices = await data.getByLabel('label1', 'Azure', { limit: 1000 })
+    let gcloudServices = await data.getByLabel('label1', 'Google Cloud', { limit: 1000 })
+
+    let services = [...awsServices.items, ...azureServices.items, ...gcloudServices.items].map(i => i.value)
+
+    const sorted = services.sort((a, b) => (Number(b.score) - Number(a.score)))
+    const leaderboard = sorted.slice(0, 10)
+
+    await data.set(cacheKey, leaderboard, { ttl: 5 })
+
+    res.json({
+      data: sorted.slice(0, 10)
+    })
   }
 })
 
@@ -150,6 +181,7 @@ api.post('/todos/:id', async (req, res) => {
   })
 })
 
+
 /* 
  * Create a route to DELETE a TODO item
 */
@@ -186,26 +218,30 @@ api.use((err, req, res, next) => {
 
   res.status(err.statusCode).json(error)
 })
+//
+// /*
+//   Sometimes you might want to run code on a schedule, like if you want to
+//   send alerts when items are overdue.
+// */
+// schedule.every('60 minutes', async () => {
+//   console.log(`Checking for overdue TODOs...`)
+//
+//   // Look for items that are overdue
+//   let overdueItems = await data.getByLabel('label1', `incomplete:<${new Date().toISOString()}`)
+//
+//   if (overdueItems.items.length === 0) {
+//     console.log(`Nothing overdue!`)
+//   }
+//
+//   // Loop through the overdue items
+//   for (let item of overdueItems.items) {
+//     // Here we could send an alert
+//     console.log(`ALERT: '${item.value.name}' is overdue!!!`)
+//   }
+// })
 
-/*
-  Sometimes you might want to run code on a schedule, like if you want to 
-  send alerts when items are overdue.
-*/
-schedule.every('60 minutes', async () => {
-  console.log(`Checking for overdue TODOs...`)
-
-  // Look for items that are overdue
-  let overdueItems = await data.getByLabel('label1', `incomplete:<${new Date().toISOString()}`)
-
-  if (overdueItems.items.length === 0) {
-    console.log(`Nothing overdue!`)
-  }
-
-  // Loop through the overdue items
-  for (let item of overdueItems.items) {
-    // Here we could send an alert
-    console.log(`ALERT: '${item.value.name}' is overdue!!!`)
-  }
+api.get('*', (req, res) => {
+  res.sendFile(__dirname + '/static/index.html')
 })
 
 const expectedScore = (Rb, Ra) => {
