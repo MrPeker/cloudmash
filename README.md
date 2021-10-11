@@ -1,3 +1,10 @@
+# Cloudmash – Facemash but for Cloud. Serverless Cloud Example
+Cloudmash is a Facemash implementation for Cloud services. I created this application to explore Serverless Cloud. And it ended as a fun way to learn and explore different Cloud services across different vendors.
+
+Honestly, I'm not written any tests and repo contains unused lines and files. My goal was to create a PoC asap. So, here it is.
+
+---
+
 # Serverless Cloud Example Application
 
 This application is a sample to-do app build powered by React, and yes Serverless Cloud! 
