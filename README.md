@@ -3,6 +3,8 @@ Cloudmash is a Facemash implementation for Cloud services. I created this applic
 
 Honestly, I'm not written any tests and repo contains unused lines and files. My goal was to create a PoC asap. So, here it is.
 
+Demo: [https://blazing-code-a67wu.cloud.serverless.com/](https://blazing-code-a67wu.cloud.serverless.com/)
+
 ---
 
 # Serverless Cloud Example Application
