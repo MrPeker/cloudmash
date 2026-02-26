@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "dayjs": "^1.10.6",
-    "glob": "^7.1.7",
+    "glob": "^13.0.6",
     "lodash": "^4.17.21",
     "uuid": "^8.3.2"
   }
